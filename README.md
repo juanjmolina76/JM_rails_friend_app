@@ -12,5 +12,8 @@ Lo subo a git hub y lo publicaré en Heroku tal como lo enseña en el tutorial.
 3:30 Git / GitHub
 3:44 Web Hosting con Heroku
 
+SSH (en mi pc c/users/JUAN/.ssh id_ed25519)
+ssh Key agregada a github
+en foto/settings/SSH and GPG keys/
 
 Este es mi mail: molinajuanj@gmail.com
