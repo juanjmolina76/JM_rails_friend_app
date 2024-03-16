@@ -17,3 +17,5 @@ ssh Key agregada a github
 en foto/settings/SSH and GPG keys/
 
 Este es mi mail: molinajuanj@gmail.com
+
+-La app puede ser subida al hosting fly.io
